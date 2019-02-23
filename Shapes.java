@@ -1,15 +1,14 @@
 /*
- * File:                Shapes.java
- * Author:		Annie Wu
- * Class:		CS 4450 - Computer Graphics
+ * Author:		    Annie Wu
+ * Class:		    CS 4450 - Computer Graphics
  * 
  * Assignment:		1
- * Date:                11 Feb 2019
+ * Date:            11 Feb 2019
  *   
- * Purpose:		This file contains the Java test program for determining 
- *                      the scope of a variable declared in a for statement.
+ * Purpose:		    This file contains the Java test program for determining 
+ *                  the scope of a variable declared in a for statement.
  *
- * EXTRA:               Hold down either key C or V to change colors of the shapes.
+ * EXTRA:           Hold down either key C or V to change colors of the shapes.
  *                       
  */
 
